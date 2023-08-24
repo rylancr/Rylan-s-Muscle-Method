@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Personal Training Brand</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Discover the Secret to Getting Jacked!</h1>
+        <p>Unlock the Proven Method That's Transforming Skinny Males Aged 18-25 into Fitness Warriors!</p>
+    </header>
+    <section id="about">
+        <h2>You're ONE CLICK Away from the Body You've Always Dreamed Of!</h2>
+        <p>Our exclusive program delivers rapid results with customized training and nutrition. Get started TODAY and see the difference!</p>
+    </section>
+    <section id="program">
+        <h2>Why Keep Struggling Alone?</h2>
+        <p>Join a community of like-minded individuals, and let us guide you to success with proven strategies and constant support.</p>
+    </section>
+    <section id="cta">
+        <h2>The Transformation Begins Now!</h2>
+        <a href="signup.html" class="cta-button">Reveal The Secret</a>
+    </section>
+    <footer>
+        <p>&copy; Your Personal Training Brand | Gold Coast, Australia</p>
+    </footer>
+</body>
+</html> 
